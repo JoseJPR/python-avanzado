@@ -8,3 +8,4 @@ print(result_equal)
 
 result_filter = list(filter(lambda num: num % 2 == 0, number_list))
 print(result_filter)
+
