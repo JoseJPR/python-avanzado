@@ -5,3 +5,7 @@
 ## Curso
 
 Curso vinculado a los ejemplos de este repositorio: https://www.linkedin.com/learning/python-avanzado-18053873
+
+## Links of interest
+
+### More info about logging: https://docs.python.org/es/3/howto/logging.html
