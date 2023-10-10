@@ -1,6 +1,6 @@
 ![Python Logo](./assets/logo-python.png)
 
-# Python Avanzado (WIP)
+# Python Avanzado
 
 ## Curso
 
